@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7497282e-ac89-4b5e-b643-97aee05f4d25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.module.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.module.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/MenuToggle/MenuToggle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/MenuToggle/MenuToggle.module.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.module.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.module.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ActiveQuiz/ActiveQuiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ActiveQuiz/ActiveQuiz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ActiveQuiz/AnswersList/AnswerItem/AnswerItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ActiveQuiz/AnswersList/AnswerItem/AnswerItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ActiveQuiz/AnswersList/AnswerItem/AnswerItem.module.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ActiveQuiz/AnswersList/AnswerItem/AnswerItem.module.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ActiveQuiz/AnswersList/AnswersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ActiveQuiz/AnswersList/AnswersList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
-    </list>
+    <list default="true" id="7497282e-ac89-4b5e-b643-97aee05f4d25" name="Default Changelist" comment="1" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +298,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548736272458</updated>
-      <workItem from="1548736273921" duration="21593000" />
+      <workItem from="1548736273921" duration="22385000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1548736546979</created>
@@ -326,14 +307,22 @@
       <option name="project" value="LOCAL" />
       <updated>1548736546979</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1548765781230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548765781230</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21593000" />
+    <option name="totallyTimeSpent" value="22385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
@@ -342,7 +331,7 @@
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="3" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3292683" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
